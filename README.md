@@ -1,1 +1,1 @@
--[Report]: (https://github.com/ZiyuWang1121/PICO-VR-Headset-Market-Analysis/blob/main/PICO%20VR%20Headset%20Market%20Analysis.pdf)
+- ✅ [Report](https://github.com/ZiyuWang1121/PICO-VR-Headset-Market-Analysis/blob/main/PICO%20VR%20Headset%20Market%20Analysis.pdf)
