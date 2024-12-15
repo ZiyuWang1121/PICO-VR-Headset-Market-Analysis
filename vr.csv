@@ -1,0 +1,61 @@
+id,own_device,interest,x1,x2,x3,x4,x5,x6,x7,x8,x9,x10,x11,x12,x13,x14,income,gender,glass,age,1599_8_128G_5,1599_8_128G_10,1599_8_256G_5,1599_8_256G_10,1999_8_128G_5,1999_8_256G_5,1999_8_128G_10,1999_8_256G_10
+1,PC©¯Cell phone,Yes,1,2,2,2,1,4,2,1,2,1,3,4,4,4,2000,Male,Yes,22,Yes,Yes,Yes,No,No,Yes,No,Yes
+2,PC©¯Cell phone©¯VR equipment,Yes,4,5,5,4,2,3,4,3,4,5,2,3,5,2,2000,Female,No,22,No,Yes,No,Yes,No,No,Yes,Yes
+3,PC©¯Cell phone,Yes,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,Female,No,21,No,No,No,No,No,No,No,No
+4,PC©¯Cell phone,Yes,3,4,4,4,4,5,5,5,5,4,2,3,4,5,0,Female,Yes,19,No,No,No,Yes,No,Yes,No,No
+5,PC,Yes,4,4,3,2,4,4,4,4,4,4,5,4,5,4,7000,Male,Yes,20,Yes,No,Yes,Yes,Yes,No,Yes,No
+6,PC©¯Cell phone,Yes,4,5,2,3,3,5,4,4,4,5,3,4,4,5,8000,Female,Yes,25,Yes,No,Yes,No,No,Yes,Yes,No
+7,PC,Yes,1,3,2,2,2,1,2,1,1,2,1,2,1,1,1000,Female,Yes,28,Yes,No,No,No,No,No,No,No
+8,PC©¯Cell phone©¯Switch,Yes,5,4,3,5,3,4,4,3,5,4,3,2,3,3,3000,Female,No,23,No,Yes,No,Yes,No,Yes,No,Yes
+9,PC,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,1200000,Male,Yes,37,No,No,No,Yes,No,No,No,Yes
+10,Cell phone,Yes,5,4,4,3,3,4,4,3,3,3,3,3,5,4,5000,Female,Yes,26,No,Yes,Yes,Yes,No,No,Yes,Yes
+11,PC©¯Cell phone,Yes,5,5,5,5,5,5,5,5,5,5,5,2,5,5,6000,Male,Yes,22,No,Yes,No,Yes,No,No,No,Yes
+12,PC©¯Cell phone,Yes,3,5,5,4,4,4,5,4,5,5,3,3,5,5,1500,Male,Yes,20,Yes,No,No,No,No,No,No,No
+13,PC©¯Cell phone,Yes,4,5,3,3,4,4,4,4,4,5,4,4,4,4,4500,Female,Yes,22,No,No,No,Yes,No,No,No,Yes
+14,PC©¯Cell phone©¯Switch©¯VR equipment,Yes,3,5,4,4,5,5,5,5,5,5,3,4,5,5,40000,Female,Yes,32,No,No,No,Yes,No,No,No,Yes
+15,PC©¯Cell phone©¯Playstation©¯Switch©¯VR equipment,Yes,5,5,3,5,4,4,4,2,5,4,2,3,3,4,5000,Female,Yes,25,No,Yes,No,Yes,No,Yes,No,Yes
+16,PC©¯Playstation,Yes,4,4,2,2,4,4,3,3,3,3,2,3,3,3,1000,Male,Yes,21,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+17,PC©¯Cell phone,Yes,5,4,4,3,4,5,3,4,4,3,1,1,4,5,0,Female,Yes,19,No,No,No,Yes,No,No,No,No
+18,PC©¯Cell phone©¯Playstation©¯Switch©¯Xbox,Yes,5,5,4,4,4,4,4,3,5,5,2,2,2,5,10000,Male,Yes,30,No,No,No,Yes,No,No,No,No
+19,PC©¯Playstation©¯Switch,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3000,Male,Yes,18,Yes,No,Yes,No,No,No,Yes,Yes
+20,PC©¯Cell phone,Yes,3,3,3,4,4,4,4,4,4,4,3,2,3,2,10000,Female,No,24,No,No,No,No,No,No,No,No
+21,PC©¯Cell phone,Yes,4,5,3,4,4,3,3,3,5,3,3,3,4,3,6000,Female,Yes,25,Yes,Yes,Yes,Yes,No,No,No,No
+23,PC©¯Cell phone,Yes,4,5,4,3,3,4,4,4,4,4,4,4,4,4,4000,Male,No,22,No,No,No,No,No,No,No,No
+24,PC©¯Cell phone©¯Xbox©¯VR equipment,Yes,4,5,5,3,4,4,4,3,4,5,3,4,4,4,3000,Male,Yes,20,No,Yes,No,Yes,No,No,No,Yes
+25,PC©¯Cell phone,Yes,3,5,5,5,4,5,5,5,5,5,5,5,5,5,50000,Female,Yes,22,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+26,PC©¯Cell phone,Yes,4,5,3,4,4,4,5,4,5,5,3,3,4,4,150,Female,No,19,Yes,No,Yes,No,No,No,Yes,Yes
+27,PC,Yes,1,1,2,3,2,3,3,2,2,2,3,3,2,2,8000,Male,Yes,25,Yes,Yes,No,No,No,No,No,No
+28,PC©¯Cell phone,Yes,3,4,5,4,5,5,5,4,5,4,2,3,4,5,0,Female,Yes,20,No,No,No,Yes,No,No,No,Yes
+29,PC©¯Cell phone©¯Others,Yes,5,5,4,5,4,4,3,3,3,4,3,4,4,5,5000,Male,Yes,25,Yes,Yes,Yes,Yes,No,No,No,Yes
+30,I don't have any gaming devices,No,5,5,4,3,3,3,3,3,3,3,3,3,4,3,0,Female,Yes,19,No,No,No,Yes,No,No,Yes,No
+31,PC©¯Cell phone,Yes,4,4,3,3,4,4,5,5,5,5,4,4,5,5,7000,Female,Yes,27,No,No,No,Yes,No,No,No,Yes
+32,PC,Yes,3,3,2,2,2,2,4,2,2,3,3,4,4,2,0,Female,Yes,22,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes
+33,PC©¯Playstation©¯VR equipment,Yes,3,3,3,2,4,4,1,3,3,4,3,2,3,5,5800,Male,Yes,18,Yes,No,Yes,Yes,Yes,No,Yes,No
+34,PC©¯Cell phone©¯VR equipment,Yes,4,5,4,5,4,5,5,5,5,4,4,4,4,5,6000,Female,Yes,26,No,No,No,Yes,No,No,No,Yes
+35,PC,Yes,5,4,3,3,5,5,4,5,5,2,4,2,4,5,1000,Female,Yes,19,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+36,PC©¯Cell phone,Yes,2,5,4,4,5,5,4,3,5,5,2,3,4,4,5000,Male,Yes,25,No,No,No,Yes,No,No,No,Yes
+37,PC©¯Cell phone,Yes,5,4,4,5,4,5,4,4,4,4,3,3,4,4,3000,Female,Yes,20,No,No,Yes,Yes,No,Yes,No,Yes
+38,PC©¯Cell phone©¯VR equipment,Yes,5,5,4,4,5,5,5,5,5,5,4,5,5,5,4000,Female,Yes,21,No,No,No,Yes,No,No,No,Yes
+39,PC,Yes,3,4,4,4,4,4,4,4,4,4,4,4,4,2,3000,Male,No,25,Yes,No,No,No,No,Yes,Yes,No
+40,PC©¯Cell phone,Yes,3,3,4,4,3,3,4,3,3,4,3,3,4,4,2000,Male,Yes,21,No,Yes,Yes,No,Yes,Yes,Yes,Yes
+41,PC©¯Cell phone,Yes,4,5,3,4,4,5,5,4,4,4,3,3,4,5,2500,Female,Yes,24,No,Yes,Yes,No,No,Yes,Yes,Yes
+42,Cell phone©¯Switch,Yes,4,5,4,4,5,5,5,5,4,4,4,4,4,3,100000,Female,Yes,24,No,Yes,No,No,No,No,No,Yes
+43,PC©¯Cell phone,Yes,5,4,4,3,4,4,4,3,4,4,3,4,3,4,1500,Male,Yes,18,No,Yes,No,Yes,No,No,Yes,Yes
+44,I don't have any gaming devices,Yes,4,5,4,5,5,5,5,4,5,5,4,3,4,3,5000,Female,No,17,No,No,Yes,Yes,No,Yes,Yes,Yes
+45,PC©¯Cell phone,Yes,4,5,4,4,3,4,4,5,5,5,4,5,5,5,500,Female,Yes,18,No,Yes,No,No,No,No,No,No
+46,PC©¯Cell phone©¯Switch,Yes,5,5,5,3,3,4,4,4,5,4,5,3,3,5,2000,Male,Yes,19,No,Yes,No,Yes,No,No,Yes,Yes
+47,PC©¯Playstation,Yes,4,5,4,3,4,5,4,5,5,5,3,2,4,5,2500,Male,Yes,21,No,Yes,No,Yes,Yes,No,Yes,Yes
+48,PC©¯Cell phone©¯Switch,Yes,5,5,4,5,4,5,4,4,3,4,4,3,5,5,2500,Female,Yes,18,No,Yes,Yes,Yes,No,No,No,Yes
+50,PC©¯Cell phone,Yes,5,5,4,3,4,4,4,4,4,4,4,4,4,4,8000,Female,No,40,No,No,Yes,Yes,No,Yes,No,No
+51,PC©¯Cell phone,No,5,5,5,5,5,5,5,5,5,3,4,3,3,5,20000,Female,Yes,19,Yes,Yes,Yes,Yes,No,No,No,No
+52,PC©¯Cell phone,Yes,4,5,4,4,4,5,5,4,4,5,3,4,4,4,2000,Female,Yes,22,No,Yes,Yes,Yes,No,Yes,No,Yes
+53,PC©¯Cell phone,Yes,4,4,3,4,5,5,5,5,5,5,3,3,5,5,8000,Male,Yes,30,Yes,Yes,Yes,No,Yes,Yes,No,No
+54,PC©¯Cell phone©¯Switch,Yes,4,5,3,4,3,4,5,3,4,3,2,2,3,3,1500,Female,No,20,No,Yes,No,Yes,No,No,No,Yes
+55,PC©¯Cell phone,Yes,4,4,3,4,4,4,4,3,4,4,3,3,4,4,2000,Male,Yes,21,No,No,No,No,No,Yes,Yes,Yes
+56,PC©¯Cell phone©¯Playstation©¯Switch©¯Xbox,Yes,5,4,4,5,4,4,5,4,4,5,4,5,4,5,1000,Male,Yes,23,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+57,I don't have any gaming devices,Yes,5,4,4,5,5,5,5,5,5,5,5,5,5,5,20000,Female,Yes,32,No,No,No,No,No,No,No,Yes
+58,PC©¯Cell phone©¯VR equipment,Yes,5,4,4,5,5,5,4,4,4,4,2,2,5,4,8000,Male,Yes,26,No,No,No,Yes,No,No,No,Yes
+59,PC©¯Cell phone,Yes,4,4,3,3,3,4,4,3,3,3,4,4,5,4,2000,Female,Yes,23,No,Yes,No,Yes,No,No,No,No
+60,I don't have any gaming devices,Yes,5,5,4,3,4,4,3,4,4,5,3,4,5,5,3000,Female,Yes,22,No,No,No,Yes,No,No,Yes,Yes
+61,PC©¯Cell phone,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3500,Female,Yes,23,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+62,Playstation©¯Xbox,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,3,80000,Male,No,32,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
